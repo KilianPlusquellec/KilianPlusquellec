@@ -1,65 +1,80 @@
-# <span style="color:#ffffff">Hi, I'm Kilian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </span>
+# Hi, I'm Kilian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Welcome to my GitHub account.
+Welcome to my GitHub account!
 
-I'm a French JS developer (with a preference for back-end), living near Évreux, in the north of France.  
+I'm a French JS developer (with a preference for back-end), living near Évreux, in the north of France.
 
-🔭 My side projets at the moment are :
-- Testing NestJS for API development. My repository is named [api-nestjs](https://github.com/KilianPlusquellec/api-nestjs). It currently includes login/register functionalities and a user controller.
+🔭 **My side projects at the moment:**
+- Testing **NestJS** for API development. My repository is named [api-nestjs](https://github.com/KilianPlusquellec/api-nestjs), which currently includes login/register functionalities and a user controller.
+
+🌱 **I learned web development with [O'Clock full remote school](https://oclock.io/), promo Onigiri (intensive study, 798H).**
+I chose the back-end specialty (**Node.js**) to go further, and I really loved it.
 
 
-🌱 I learned web development with [O'Clock full remote school](https://oclock.io/), promo Onigiri (intensive study, 798H). 
-I chose the back-end specialty (Node.js) to go further and I really loved it.  
 
 ## Tech Stack 🛠️
 
-### <span style="color:#ffffff; font-style:italic">I'm used to code with</span>
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=2bcbba)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ejs](https://img.shields.io/badge/-<%=_EJS_%>-%23F7DF1E.svg?style=for-the-badge)
+### 💻 Programming Languages
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=jsonwebtokens&logoColor=2bcbba)
-![Sequelize](https://img.shields.io/badge/-sequelize-black?style=for-the-badge&logo=sequelize)
-![Zod](https://img.shields.io/badge/-Zod-black?style=for-the-badge&logo=zod&color=0A66C2)
-![Docker](https://img.shields.io/badge/Docker-%23404d59.svg?style=for-the-badge&logo=docker&color=%23404d59)
+<section>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" />
+</section>
 
-### <span style="color:#ffffff; font-style:italic">and can code, test and document with</span>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Jest](https://img.shields.io/badge/-jest-black?style=for-the-badge&logo=jest&logoColor=C21325)
-![Swagger](https://img.shields.io/badge/-swagger.io-black?style=for-the-badge&logo=swagger&)
+### 📖 Frameworks and Libraries
 
+<section>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+    <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/Zod-007ACC?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+</section>
 
-### <span style="color:#ffffff; font-style:italic">🔎 I discovered and may practice in projects</span>
+### 🗄️ Database Management
 
-![Strapi](https://img.shields.io/badge/strapi-black?style=for-the-badge&logo=strapi&logoColor=4945FF)
-![pug](https://img.shields.io/badge/Pug-black?style=for-the-badge&logo=pug&Color=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)
-![AdonisJS](https://img.shields.io/badge/-AdonisJS-black?style=for-the-badge&logo=adonisjs&color=0A66C2)
-![NestJS](https://img.shields.io/badge/-NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&color=ad2b2d)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=for-the-badge&logo=prisma)
-![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=for-the-badge&logo=typeorm)
+<section>
+    <img src="https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin" />
+    <img src="https://img.shields.io/badge/MongoDB_Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Compass" />
+    <img src="https://img.shields.io/badge/DBeaver-EE2D23?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+    <img src="https://img.shields.io/badge/Tableplus-ED9B33?style=for-the-badge&logo=tableplus&logoColor=white" alt="Tableplus" />
+</section>
+
+### 🧪 Testing & Documentation
+
+<section>
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</section>
+
+### 🚀 Deployment & Production
+
+<section>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+</section>
 
 ## Softwares 💻
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=a55eea)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-![Postman](https://img.shields.io/badge/-postman-007ACC?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
 
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=for-the-badge&logo=Slack&logoColor=orange&)
-![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&)
-![Notion](https://img.shields.io/badge/-Notion-black?style=for-the-badge&logo=Notion)
-![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=Trello)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-black?style=for-the-badge&logo=microsoftoffice&logoColor=red)
-![Google suite](https://img.shields.io/badge/-GOOGLE_SUITE-black?style=for-the-badge&logo=Google&logoColor=00AC47)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=Figma)
-
 
 ## Connect with me 📫
 
