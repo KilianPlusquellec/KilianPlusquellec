@@ -12,7 +12,7 @@ I chose the back-end specialty (**Node.js**) to go further, and I really loved i
 
 
 
-## Tech Stack 🛠️
+## 🛠️ Tech Stack 
 
 ### 💻 Programming Languages
 
@@ -61,7 +61,7 @@ I chose the back-end specialty (**Node.js**) to go further, and I really loved i
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
 </section>
 
-## Softwares 💻
+## 💻 Softwares
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=a55eea)
@@ -76,8 +76,9 @@ I chose the back-end specialty (**Node.js**) to go further, and I really loved i
 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=Figma)
 
-## Connect with me 📫
+## 📫 Connect with me
 
+[![linkedIn](https://img.shields.io/static/v1?message=LINKEDIN&label=&logo=LINKEDIN&style=for-the-badge&color=darkblue)](https://www.linkedin.com/in/kilian-plusquellec/)
 [![mail](https://img.shields.io/static/v1?message=mail&label=&logo=gmail&logoColor=FFFFFF&style=for-the-badge&color=05122A)](mailto:k.plusquellec@free.fr)
 
 ![KilianPlusquellec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KilianPlusquellec&theme=vue&show_icons=true&hide_border=true&layout=compact)
