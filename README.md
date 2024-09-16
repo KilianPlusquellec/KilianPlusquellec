@@ -2,7 +2,7 @@
 
 Welcome to my GitHub account!
 
-I'm a French JS developer (with a preference for back-end), living near Évreux, in the north of France.
+I'm a French JS developer (with a preference for back-end), living near Vernon, in the north of France.
 
 🔭 **My side projects at the moment:**
 - Testing **NestJS** for API development. My repository is named [api-nestjs](https://github.com/KilianPlusquellec/api-nestjs), which currently includes login/register functionalities and a user controller.
