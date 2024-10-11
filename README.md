@@ -10,7 +10,8 @@ I'm a French JS developer (with a preference for back-end), living near Vernon, 
 🌱 **I learned web development with [O'Clock full remote school](https://oclock.io/), promo Onigiri (intensive study, 798H).**
 I chose the back-end specialty (**Node.js**) to go further, and I really loved it.
 
-
+📜 Certifications :  
+- Titre Professionnel Développeur Web et Web Mobile
 
 ## 🛠️ Tech Stack 
 
@@ -20,6 +21,7 @@ I chose the back-end specialty (**Node.js**) to go further, and I really loved i
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </section>
@@ -36,6 +38,8 @@ I chose the back-end specialty (**Node.js**) to go further, and I really loved i
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
     <img src="https://img.shields.io/badge/Zod-007ACC?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/Nuxt.js-4FC08D?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
 </section>
 
 ### 🗄️ Database Management
@@ -67,7 +71,7 @@ I chose the back-end specialty (**Node.js**) to go further, and I really loved i
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=a55eea)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=for-the-badge&logo=Slack&logoColor=orange&)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
