@@ -33,7 +33,6 @@ I chose the back-end specialty (**Node.js**) to go further, and I really loved i
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
     <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -85,5 +84,3 @@ I chose the back-end specialty (**Node.js**) to go further, and I really loved i
 
 [![linkedIn](https://img.shields.io/static/v1?message=LINKEDIN&label=&logo=LINKEDIN&style=for-the-badge&color=darkblue)](https://www.linkedin.com/in/kilian-plusquellec/)
 [![mail](https://img.shields.io/static/v1?message=mail&label=&logo=gmail&logoColor=FFFFFF&style=for-the-badge&color=05122A)](mailto:k.plusquellec@free.fr)
-
-![KilianPlusquellec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KilianPlusquellec&theme=vue&show_icons=true&hide_border=true&layout=compact)
