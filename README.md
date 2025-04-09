@@ -7,7 +7,8 @@ Passionate about **web development and open-source**, I enjoy building **APIs an
 Currently based in **Vernon, France**, I'm always exploring new technologies to enhance my skills.  
 Right now, I'm working with **NestJS** to deepen my expertise in **API development**.  
 
-🎯 **Looking for:** A **back-end / full-stack developer position** or an **apprenticeship in application development (Concepteur Développeur d'Applications)**.  
+🎯 **Looking for:** a **12-month apprenticeship in Application Development (Concepteur Développeur d'Applications - CDA)**  
+**Rhythm:** 1 week training / 2 weeks in company
 
 🛠️ Open to collaborations and always eager to learn new technologies!  
 
