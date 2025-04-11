@@ -7,8 +7,8 @@ Passionate about **web development and open-source**, I enjoy building **APIs an
 Currently based in **Vernon, France**, I'm always exploring new technologies to enhance my skills.  
 Right now, I'm working with **NestJS** to deepen my expertise in **API development**.  
 
-🎯 **Looking for:** a **12-month apprenticeship in Application Development (Concepteur Développeur d'Applications - CDA)**  
-**Rhythm:** 1 week training / 2 weeks in company
+🎯 **Looking for:** An **Apprenticeship as an Application Developer (Concepteur Développeur d'Applications - CDA)**  
+📅 **Rhythm:** 1 week in training / 2 weeks in a company for 12 months  
 
 🛠️ Open to collaborations and always eager to learn new technologies!  
 
@@ -36,6 +36,23 @@ You can check it out here: **[api-nestjs](https://github.com/KilianPlusquellec/a
 
 
 ## 🛠️ Tech Stack  
+
+### 📚 Languages  
+
+<section>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</section>
+
+### 🧪 Languages I've explored  
+
+<section>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</section>
+
+> I've explored these languages on my own time after my training. While I'm not using them in a professional context yet, I enjoy experimenting with them and building small functional projects.
 
 ### 🚀 Back-End & APIs  
 
