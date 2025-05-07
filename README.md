@@ -15,7 +15,7 @@ Right now, I'm working with **NestJS** to deepen my expertise in **API developme
 🌱 **I learned web development with [O'Clock full remote school](https://oclock.io/), promo Onigiri (intensive study, 798H).**  
 I chose the back-end specialty (**Node.js**) to go further, and I really loved it.  
 
-📜 **Certifications:**  
+📜 **Certifications**  
 - Titre Professionnel Développeur Web et Web Mobile  
 
 
@@ -89,6 +89,7 @@ You can check it out here: **[api-nestjs](https://github.com/KilianPlusquellec/a
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH" />
+    <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </section>
