@@ -31,7 +31,7 @@ You can check it out here: **[api-nestjs](https://github.com/KilianPlusquellec/a
 ## 📌 Featured Repositories  
 
 - **[API NestJS](https://github.com/KilianPlusquellec/api-nestjs)** – NestJS API with authentication (JWT, PostgreSQL, Swagger)  
-- **[API O’PARTY](https://github.com/KilianPlusquellec/)** – Backend API for an event planning app (Node.js, Express, PostgreSQL)   
+- **[API O’PARTY](https://github.com/KilianPlusquellec/api-o-party)** – Backend API for an event planning app (Node.js, Express, PostgreSQL)   
 
 
 
