@@ -1,50 +1,45 @@
-# Hi, I'm Kilian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Salut, moi c’est Kilian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Welcome to my GitHub account!  
+Bienvenue sur mon profil GitHub !  
 
-I'm a **French JavaScript developer**, specializing in **back-end development** with **Node.js and databases**.  
-Passionate about **web development and open-source**, I enjoy building **APIs and scalable web applications**.  
-Currently based in **Vernon, France**, I'm always exploring new technologies to enhance my skills.  
-Right now, I'm working with **NestJS** to deepen my expertise in **API development**.  
+Je suis un **développeur JavaScript français**, spécialisé dans le **développement back-end** avec **Node.js et les bases de données**.  
+Passionné par le **développement web** et l’**open-source**, j’aime concevoir des **API** et des applications web **scalables**.  
+Actuellement basé à **Vernon (France)**, je suis toujours en train d’explorer de nouvelles technologies pour monter en compétences.  
+En ce moment, je travaille avec **NestJS** pour approfondir mon expertise dans le **développement d'API**.  
 
-🎯 **Looking for:** An **Apprenticeship as an Application Developer (Concepteur Développeur d'Applications - CDA)**  
-📅 **Rhythm:** 1 week in training / 2 weeks in a company for 12 months  
+🎯 **En recherche d’une entreprise pour une alternance** en tant que **Concepteur Développeur d'Applications (CDA)**  
+📅 **Rythme :** 1 semaine en formation / 2 semaines en entreprise, pendant 12 mois  
+🏫 **Formation CDA suivie chez [O’Clock](https://oclock.io/), école en téléprésentiel spécialisée dans le développement web**
 
-🛠️ Open to collaborations and always eager to learn new technologies!  
+🛠️ Ouvert aux collaborations et toujours motivé pour apprendre de nouvelles technologies !
 
-🌱 **I learned web development with [O'Clock full remote school](https://oclock.io/), promo Onigiri (intensive study, 798H).**  
-I chose the back-end specialty (**Node.js**) to go further, and I really loved it.  
+🌱 **J’ai déjà obtenu le Titre Professionnel Développeur Web et Web Mobile**, avec O’Clock (promo **Onigiri**, 798h de formation intensive).  
+J’ai choisi la spécialisation **back-end (Node.js)** pour aller plus loin… et j’ai adoré !
 
-📜 **Certifications**  
-- Titre Professionnel Développeur Web et Web Mobile  
+## 🔭 Projet en cours  
 
+Je développe actuellement une **API avec NestJS**, comprenant :
+- une authentification (connexion / inscription)
+- une gestion des utilisateurs
 
+Ce projet m’aide à améliorer mes compétences en **TypeScript**, en **sécurité des API** et en **bonnes pratiques de documentation**.  
+🔗 À découvrir ici : **[api-nestjs](https://github.com/KilianPlusquellec/api-nestjs)**  
 
-## 🔭 Current Project  
+## 📌 Projets en avant  
 
-I'm currently working on an **API using NestJS**, with authentication (login/register) and user management.  
-This project helps me improve my **TypeScript skills**, API security, and documentation best practices.  
-You can check it out here: **[api-nestjs](https://github.com/KilianPlusquellec/api-nestjs)**  
+- **[API NestJS](https://github.com/KilianPlusquellec/api-nestjs)** – API avec authentification (JWT, PostgreSQL, Swagger)  
+- **[API O’PARTY](https://github.com/KilianPlusquellec/api-o-party)** – API back-end pour une app d’organisation d’événements (Node.js, Express, PostgreSQL)  
 
+## 🛠️ Stack technique  
 
-
-## 📌 Featured Repositories  
-
-- **[API NestJS](https://github.com/KilianPlusquellec/api-nestjs)** – NestJS API with authentication (JWT, PostgreSQL, Swagger)  
-- **[API O’PARTY](https://github.com/KilianPlusquellec/api-o-party)** – Backend API for an event planning app (Node.js, Express, PostgreSQL)   
-
-
-
-## 🛠️ Tech Stack  
-
-### 📚 Languages  
+### 📚 Langages principaux  
 
 <section>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </section>
 
-### 🧪 Languages I've explored  
+### 🧪 Langages explorés  
 
 <section>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -52,7 +47,7 @@ You can check it out here: **[api-nestjs](https://github.com/KilianPlusquellec/a
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </section>
 
-> I've explored these languages on my own time after my training. While I'm not using them in a professional context yet, I enjoy experimenting with them and building small functional projects.
+> J’ai exploré ces langages de manière autonome après ma formation. Même si je ne les utilise pas encore en contexte professionnel, j’aime expérimenter avec et créer de petits projets fonctionnels.
 
 ### 🚀 Back-End & APIs  
 
@@ -74,7 +69,7 @@ You can check it out here: **[api-nestjs](https://github.com/KilianPlusquellec/a
     <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white" alt="EJS" />
 </section>
 
-### 🗄️ Database Management  
+### 🗄️ Bases de données  
 
 <section>
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -83,7 +78,7 @@ You can check it out here: **[api-nestjs](https://github.com/KilianPlusquellec/a
     <img src="https://img.shields.io/badge/Sqitch-FF6C37?style=for-the-badge&logo=postgresql&logoColor=white" alt="Sqitch" />
 </section>
 
-### 🚀 Deployment & Cloud  
+### 🚀 Déploiement & Cloud  
 
 <section>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -91,10 +86,9 @@ You can check it out here: **[api-nestjs](https://github.com/KilianPlusquellec/a
     <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH" />
     <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
     <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </section>
 
-### 🧪 Testing & Documentation  
+### 🧪 Tests & Documentation  
 
 <section>
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
@@ -102,7 +96,7 @@ You can check it out here: **[api-nestjs](https://github.com/KilianPlusquellec/a
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </section>
 
-### 💻 Tools & Software  
+### 💻 Outils & logiciels  
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -111,9 +105,7 @@ You can check it out here: **[api-nestjs](https://github.com/KilianPlusquellec/a
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-
-
-## 📫 Connect with me  
+## 📫 Me contacter  
 
 [![linkedIn](https://img.shields.io/static/v1?message=LINKEDIN&label=&logo=LINKEDIN&style=for-the-badge&color=darkblue)](https://www.linkedin.com/in/kilian-plusquellec/)  
-[![mail](https://img.shields.io/static/v1?message=mail&label=&logo=gmail&logoColor=FFFFFF&style=for-the-badge&color=05122A)](mailto:k.plusquellec@free.fr)  
+[![mail](https://img.shields.io/static/v1?message=mail&label=&logo=gmail&logoColor=FFFFFF&style=for-the-badge&color=05122A)](mailto:k.plusquellec@free.fr) 
