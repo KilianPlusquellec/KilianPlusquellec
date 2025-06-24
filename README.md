@@ -56,6 +56,7 @@ Ce projet m’aide à améliorer mes compétences en **TypeScript**, en **sécur
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
     <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /> 
     <img src="https://img.shields.io/badge/Zod-007ACC?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 </section>
 
