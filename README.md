@@ -108,5 +108,6 @@ Ce projet m’aide à améliorer mes compétences en **TypeScript**, en **sécur
 
 ## 📫 Me contacter  
 
-[![linkedIn](https://img.shields.io/static/v1?message=LINKEDIN&label=&logo=LINKEDIN&style=for-the-badge&color=darkblue)](https://www.linkedin.com/in/kilian-plusquellec/)  
-[![mail](https://img.shields.io/static/v1?message=mail&label=&logo=gmail&logoColor=FFFFFF&style=for-the-badge&color=05122A)](mailto:k.plusquellec@free.fr) 
+[![linkedIn](https://img.shields.io/static/v1?message=LINKEDIN&label=&logo=LINKEDIN&style=for-the-badge&color=darkblue)](https://www.linkedin.com/in/kilian-plusquellec/)
+[![mail](https://img.shields.io/static/v1?message=mail&label=&logo=gmail&logoColor=FFFFFF&style=for-the-badge&color=05122A)](mailto:k.plusquellec@free.fr)
+[![portfolio](https://img.shields.io/static/v1?message=PORTFOLIO&label=&logo=aboutdotme&logoColor=FFFFFF&style=for-the-badge&color=2E8B57)](https://kilianplusquellec.fr)
