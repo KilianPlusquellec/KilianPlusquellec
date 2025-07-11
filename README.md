@@ -28,7 +28,7 @@ Ce projet m’aide à améliorer mes compétences en **TypeScript**, en **sécur
 ## 📌 Projets en avant  
 
 - **[API NestJS](https://github.com/KilianPlusquellec/api-nestjs)** – API avec authentification (JWT, PostgreSQL, Swagger)  
-- **[API O’PARTY](https://github.com/KilianPlusquellec/api-o-party)** – API back-end pour une app d’organisation d’événements (Node.js, Express, PostgreSQL)  
+- **[API O’PARTY](https://github.com/KilianPlusquellec/api-o-party)** – API back-end pour une app d’organisation d’événements (Node.js, Express, PostgreSQL, ESLint)  
 
 ## 🛠️ Stack technique  
 
@@ -95,6 +95,7 @@ Ce projet m’aide à améliorer mes compétences en **TypeScript**, en **sécur
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
 </section>
 
 ### 💻 Outils & logiciels  
