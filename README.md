@@ -64,6 +64,7 @@ Ce projet m’aide à améliorer mes compétences en **TypeScript**, en **sécur
 
 <section>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
     <img src="https://img.shields.io/badge/Nuxt.js-4FC08D?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
