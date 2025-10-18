@@ -18,12 +18,14 @@ J’ai choisi la spécialisation **back-end (Node.js)** pour aller plus loin… 
 
 ## 🔭 Projet en cours  
 
-Je développe actuellement une **API avec NestJS**, comprenant :
-- une authentification (connexion / inscription)
-- une gestion des utilisateurs
+Je développe actuellement le site web et l’API de **l’Association des Descendants de Jehan Moingeon**.  
+Ce projet full stack, réalisé en **React/Next.js** et **Node.js (Express, Sequelize, PostgreSQL)**, comprend :  
+- une authentification et une gestion sécurisée des utilisateurs  
+- une interface d’adhésion en ligne avec **Stripe** pour les paiements  
+- un déploiement automatisé via **Dokploy**  
+- une API REST documentée et maintenable  
 
-Ce projet m’aide à améliorer mes compétences en **TypeScript**, en **sécurité des API** et en **bonnes pratiques de documentation**.  
-🔗 À découvrir ici : **[api-nestjs](https://github.com/KilianPlusquellec/api-nestjs)**  
+Ce projet me permet de renforcer mes compétences en **intégration de services externes**, en **sécurisation des données** et en **déploiement d’applications web**. 
 
 ## 📌 Projets en avant  
 
@@ -56,6 +58,7 @@ Ce projet m’aide à améliorer mes compétences en **TypeScript**, en **sécur
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
     <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS" />
+    <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /> 
     <img src="https://img.shields.io/badge/Zod-007ACC?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 </section>
@@ -84,6 +87,7 @@ Ce projet m’aide à améliorer mes compétences en **TypeScript**, en **sécur
 
 <section>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Dokploy-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Dokploy" />
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH" />
     <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
