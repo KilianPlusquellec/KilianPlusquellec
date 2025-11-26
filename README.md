@@ -47,6 +47,7 @@ Ce projet me permet de renforcer mes compétences en **intégration de services 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </section>
 
 > J’ai exploré ces langages de manière autonome après ma formation. Même si je ne les utilise pas encore en contexte professionnel, j’aime expérimenter avec et créer de petits projets fonctionnels.
