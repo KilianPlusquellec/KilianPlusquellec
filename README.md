@@ -14,7 +14,8 @@ En ce moment, je travaille avec **NestJS** pour approfondir mon expertise dans l
 🛠️ Ouvert aux collaborations et toujours motivé pour apprendre de nouvelles technologies !
 
 🌱 **J’ai déjà obtenu le Titre Professionnel Développeur Web et Web Mobile**, avec O’Clock (promo **Onigiri**, 798h de formation intensive).  
-J’ai choisi la spécialisation **back-end (Node.js)** pour aller plus loin… et j’ai adoré !
+J’ai choisi la spécialisation **back-end (Node.js)** pour aller plus loin… et j’ai adoré !  
+🎓 **J'ai également obtenu le certificat "Google Career Essentials : Intelligence Artificielle"**.
 
 ## 🔭 Projet en cours  
 
